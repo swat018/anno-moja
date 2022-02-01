@@ -6,7 +6,7 @@ package me.swat018;
  */
 public class App {
     public static void main( String[] args ) {
-//        Moja moja = new MagicMoja();
-//        System.out.println(moja.pullOut());
+        Moja moja = new MagicMoja();
+        System.out.println(moja.pullOut());
     }
 }
